@@ -1,5 +1,5 @@
 .cool-car {
-  height: 220px; 
+  height: 220px;
   width: 400px;
   border: 15px solid rgb(211, 166, 42);
   padding: 1px;
@@ -19,4 +19,10 @@
   border: 5px solid rgb(24, 212, 65);
   padding: 25px;
   margin: 10px;
+}
+
+.one-table {
+  width: 550px;
+  height: 110px;
+  overflow: hidden;
 }
